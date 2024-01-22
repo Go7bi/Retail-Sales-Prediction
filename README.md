@@ -20,10 +20,10 @@
 
 # Requirements
 
-*Python 3.x
+* Python 3.x
 
-*pandas
+* pandas
 
-*scikit-learn
+* scikit-learn
 
-*matplotlib (for visualization, if needed)
+* matplotlib (for visualization, if needed)
