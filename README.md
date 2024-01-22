@@ -6,7 +6,7 @@ This project focuses on predicting retail sales using advanced analytics and mac
 
 Features 
 
-## Data Preprocessing: Clean and prepare the dataset, handle missing values, and encode categorical variables.
+**Data Preprocessing**: Clean and prepare the dataset, handle missing values, and encode categorical variables.
 
 ## Exploratory Data Analysis (EDA): Gain insights into the data, identify patterns, and visualize key trends to inform the modeling process.
 
